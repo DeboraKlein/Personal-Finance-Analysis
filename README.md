@@ -25,7 +25,7 @@ This dashboard is **not open for modifications** or external contributions, as i
  **Visualization Techniques** – Speedometer charts, tree maps, and trend graphs  
 
 ## Learning Experience  
-This dashboard was developed as a **learning project**, applying **real financial analysis techniques** to a **fictitious dataset**. A special thanks to **Hashtag Treinamentos**, whose valuable training helped shape this project! 🙌🔥  
+This dashboard was developed as a **learning project**, applying **real financial analysis techniques** to a **fictitious dataset**. A special thanks to **Hashtag Treinamentos**, whose valuable training helped shape this project!  
 
 ## How to Use  
 1️ **Download the dashboard file** from the repository  
