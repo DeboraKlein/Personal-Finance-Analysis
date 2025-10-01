@@ -33,9 +33,9 @@ This dashboard was developed as a **learning project**, applying **real financia
 3️ **Adjust parameters** to analyze different budgeting scenarios  
 
 ## Screenshot  
-![Dashboard Screenshot](![Personal Finance Analysis](https://github.com/user-attachments/assets/d94f9ec2-9ac8-4318-bd8a-088f6ea34a97)
-)
-)  
+(![Personal Finance Analysis](https://github.com/user-attachments/assets/d94f9ec2-9ac8-4318-bd8a-088f6ea34a97)
+
+ 
 
 ## Future Improvements  
 - Expanding financial categories for deeper analysis  
