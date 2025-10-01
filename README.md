@@ -20,9 +20,9 @@ This dashboard is **not open for modifications** or external contributions, as i
 - **Financial Overview Tree Map** – A structured financial snapshot  
 
 ## Technology & Tools  
-✔ **Excel** – Used for data visualization and dashboard creation  
-✔ **Data Analysis** – Applied financial modeling and trend analysis  
-✔ **Visualization Techniques** – Speedometer charts, tree maps, and trend graphs  
+ **Excel** – Used for data visualization and dashboard creation  
+ **Data Analysis** – Applied financial modeling and trend analysis  
+ **Visualization Techniques** – Speedometer charts, tree maps, and trend graphs  
 
 ## Learning Experience  
 This dashboard was developed as a **learning project**, applying **real financial analysis techniques** to a **fictitious dataset**. A special thanks to **Hashtag Treinamentos**, whose valuable training helped shape this project! 🙌🔥  
